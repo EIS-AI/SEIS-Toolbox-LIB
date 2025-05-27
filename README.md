@@ -1,7 +1,7 @@
 # SEIS-Toolbox-LIB
-This code can be used to calculate the impedance spectra of the DFN-like impedance models. Numerical details of EIS-Toolbox@LIB are available in [1].
+This toolbox can be used to calculate the impedance spectra of the DFN-like impedance models. Numerical details of EIS-Toolbox@LIB are available in [1].
 
-[1] Y. Bai, Q.-A. Huang, K. Wu, J. Zhang, Decouple charge transfer reactions in the Li-ion battery, J. Energy Chem. 92 (2024) 759–798.
+[1] Yuxuan Bai, Qiu-An Huang, Kai Wu, Jiujun Zhang, Decouple charge transfer reactions in the Li-ion battery, J. Energy Chem. 92 (2024) 759–798.
 
 Please refer to Readme for SEIS-Toolbox@LIB.docx for User’s Manual in English Version.
 
